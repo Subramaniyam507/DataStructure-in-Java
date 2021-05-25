@@ -1,5 +1,5 @@
 public class DoublyLinkedList {
-    //Underlying data structure of LinkedList
+    //Underlying data structure of LinkedList Class
     Node head;// points first node
     Node tail;// points last node
     int length;
